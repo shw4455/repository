@@ -1,7 +1,8 @@
 # main links
+# 상단바 메뉴를 구성하는 설정들
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "메뉴" # 메뉴에 표시될 텍스트
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ # 메뉴가 연결될 링크 주소
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
