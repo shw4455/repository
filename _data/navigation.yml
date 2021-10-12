@@ -3,16 +3,8 @@
 main:
   - title: "Categories" # 메뉴에 표시될 텍스트
     url: /categories/ # 메뉴가 연결될 링크 주소
-  - title: "Category"
-    url: /category"
   - title: "Tags"
     url: /tags/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
       
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
   # - title: "About"
